@@ -29,10 +29,6 @@ h2{
 p{
 	color: #C4C4C4;
 }
-ul{
-	list-style-type: square;
-	text-align: left;
-}
 hr{
 	padding: 5px;
 	padding-bottom: 10px;
@@ -109,4 +105,11 @@ header img{
 footer{
 	margin-top: 20px;
 	padding: 40px 20px;
+}
+footer ul{
+	list-style-type: square;
+	text-align: left;
+}
+footer ul li{
+	display: inline-block;
 }

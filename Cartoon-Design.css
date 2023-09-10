@@ -115,5 +115,9 @@ footer ul li{
 	display: inline-block;
 }
 ol{
-	list-style-type: i;
 	text-aligh: center;
+	color: white;
+}
+h3{
+	color: white;
+}

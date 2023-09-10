@@ -117,5 +117,9 @@ footer ul li{
 .list{
 	text-aligh: left;
 	color: white;
+	padding: 5px;
+}
+li{
+	text-align: left;
 }
 

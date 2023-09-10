@@ -114,7 +114,7 @@ footer ul{
 footer ul li{
 	display: inline-block;
 }
-ol{
+.list{
 	text-aligh: left;
 	color: white;
 }

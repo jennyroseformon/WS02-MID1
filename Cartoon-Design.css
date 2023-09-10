@@ -114,3 +114,6 @@ footer ul{
 footer ul li{
 	display: inline-block;
 }
+ol{
+	list-style-type: i;
+	text-aligh: center;

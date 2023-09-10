@@ -112,7 +112,7 @@ footer ul{
 	color: white;
 }
 footer ul li{
-	display: inline-block;
+	display: left;
 }
 .list{
 	text-aligh: left;
